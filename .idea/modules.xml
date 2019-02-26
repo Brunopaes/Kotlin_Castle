@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/06.1 - Kotlin_Castle.iml" filepath="$PROJECT_DIR$/.idea/06.1 - Kotlin_Castle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.1 - Kotlin_Castle.iml" filepath="$PROJECT_DIR$/06.1 - Kotlin_Castle.iml" />
     </modules>
   </component>
 </project>
