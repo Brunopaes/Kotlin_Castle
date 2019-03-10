@@ -6,17 +6,33 @@ class Messages {
     }
 }
 
+fun interpreter(command: List<String>?) {
+    if (command?.contains("IR")!!) {
+        println("Hello")
+    }
+}
+
+fun getWords(command: String?): List<String>? {
+    return command?.split(" ")
+}
+
+fun boardFormat() {
+    val height = 4; val width = 4
+    val x = 2; val y = 3
+}
 
 fun main(args: Array<String>) {
     val obj = Messages.Companion
 
-
     println(obj.welcomeMessage)
+    println(obj.goalMessage)
 
     do {
-        println(obj.goalMessage)
+        var command = readLine()?.toUpperCase()
 
-    } while(readLine()!!.toUpperCase() != "SAIR")
+        interpreter(getWords(command))
+
+    } while(command != "SAIR")
 
     println(obj.exit)
 
