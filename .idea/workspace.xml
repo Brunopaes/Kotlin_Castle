@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df4ee5c3-225f-4dee-8a84-425a463ad513" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/06.1 - Kotlin_Castle/KotlinCastleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/06.1 - Kotlin_Castle/META-INF/06.1 - Kotlin_Castle.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/06.1 - Kotlin_Castle/Messages$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/06.1 - Kotlin_Castle/Messages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KotlinCastle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinCastle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlincastle(2).kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +13,85 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/KotlinCastle.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="79">
+              <caret line="226" column="38" lean-forward="true" selection-start-line="226" selection-start-column="38" selection-end-line="226" selection-end-column="38" />
               <folding>
-                <element signature="n#!!block;n#Messages#0" />
-                <element signature="n#!!block;n#Companion#0;n#!!block;n#Messages#0" />
+                <element signature="n#!!block;n#ir#0" />
+                <element signature="e#957#1274#1" />
+                <element signature="e#978#1194#1" />
+                <element signature="e#1024#1116#1" />
+                <element signature="e#1209#1268#1" />
+                <element signature="e#1345#1534#1" />
+                <element signature="e#1375#1454#1" />
+                <element signature="e#1469#1528#1" />
+                <element signature="e#1609#1798#1" />
+                <element signature="e#1640#1718#1" />
+                <element signature="e#1733#1792#1" />
+                <element signature="e#1873#2054#1" />
+                <element signature="e#1894#1973#1" />
+                <element signature="e#1988#2047#1" />
+                <element signature="e#2065#2098#1" />
+                <element signature="e#2174#2652#1" />
+                <element signature="e#2236#2347#1" />
+                <element signature="e#2300#2337#1" />
+                <element signature="e#2370#2484#1" />
+                <element signature="e#2498#2646#1" />
+                <element signature="n#!!block;n#getPalavras#0" />
+                <element signature="n#!!block;n#converterMaiusculo#0" />
+                <element signature="e#3113#3153#1" />
+                <element signature="n#!!block;n#pegar#0" />
+                <element signature="e#4068#4787#1" />
+                <element signature="e#4121#4204#1" />
+                <element signature="e#4326#4644#1" />
+                <element signature="e#4407#4509#1" />
+                <element signature="e#4528#4634#1" />
+                <element signature="e#4659#4715#1" />
+                <element signature="e#4743#4781#1" />
+                <element signature="n#!!block;n#abrir#0" />
+                <element signature="e#5200#5806#1" />
+                <element signature="e#5290#5495#1" />
+                <element signature="e#5354#5391#1" />
+                <element signature="e#5448#5485#1" />
+                <element signature="e#5519#5688#1" />
+                <element signature="e#5725#5800#1" />
+                <element signature="e#5817#5876#1" />
+                <element signature="n#!!block;n#atacar#0" />
+                <element signature="e#5921#7216#1" />
+                <element signature="e#6044#6159#1" />
+                <element signature="e#6111#6149#1" />
+                <element signature="e#6184#6298#1" />
+                <element signature="e#6313#6415#1" />
+                <element signature="e#6449#6557#1" />
+                <element signature="e#6510#6547#1" />
+                <element signature="e#6580#6720#1" />
+                <element signature="e#6735#6794#1" />
+                <element signature="e#6828#6942#1" />
+                <element signature="e#6895#6932#1" />
+                <element signature="e#6991#7143#1" />
+                <element signature="e#7158#7209#1" />
+                <element signature="e#7222#7280#1" />
+                <element signature="n#!!block;n#fimDeJogo#0" />
+                <element signature="e#7327#7394#1" />
+                <element signature="e#7405#7466#1" />
+                <element signature="n#!!block;n#board#1" />
+                <element signature="e#7504#9056#0" />
+                <element signature="e#7533#7842#1" />
+                <element signature="e#7852#8303#1" />
+                <element signature="e#8325#8742#1" />
+                <element signature="e#8740#9033#1" />
+                <element signature="n#!!block;n#getPosicao#0;n#!!block;n#board#1" />
+                <element signature="n#!!block;n#addObjeto#0;n#!!block;n#Posicao#0" />
+                <element signature="n#!!block;n#main#0" />
+                <element signature="e#10072#10242#1" />
               </folding>
             </state>
           </provider>
@@ -38,6 +105,13 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>charge</find>
+      <find>IR</find>
+      <find>soltar</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,15 +153,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551230844230" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config.mtCustomThemeConfig" />
@@ -135,6 +214,8 @@
       <workItem from="1551223246127" duration="4340000" />
       <workItem from="1552430272004" duration="622000" />
       <workItem from="1552436816576" duration="558000" />
+      <workItem from="1553036170661" duration="40000" />
+      <workItem from="1556663253211" duration="6711000" />
     </task>
     <task id="LOCAL-00001" summary="IDE Updates">
       <created>1551223331492</created>
@@ -143,17 +224,23 @@
       <option name="project" value="LOCAL" />
       <updated>1551223331492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="IDE Updates">
+      <created>1553036209458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553036209458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5520000" />
+    <option name="totallyTimeSpent" value="12271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25755286" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26510575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -162,7 +249,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -172,7 +259,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295129" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -194,11 +281,76 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/KotlinCastle.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="79">
+          <caret line="226" column="38" lean-forward="true" selection-start-line="226" selection-start-column="38" selection-end-line="226" selection-end-column="38" />
           <folding>
-            <element signature="n#!!block;n#Messages#0" />
-            <element signature="n#!!block;n#Companion#0;n#!!block;n#Messages#0" />
+            <element signature="n#!!block;n#ir#0" />
+            <element signature="e#957#1274#1" />
+            <element signature="e#978#1194#1" />
+            <element signature="e#1024#1116#1" />
+            <element signature="e#1209#1268#1" />
+            <element signature="e#1345#1534#1" />
+            <element signature="e#1375#1454#1" />
+            <element signature="e#1469#1528#1" />
+            <element signature="e#1609#1798#1" />
+            <element signature="e#1640#1718#1" />
+            <element signature="e#1733#1792#1" />
+            <element signature="e#1873#2054#1" />
+            <element signature="e#1894#1973#1" />
+            <element signature="e#1988#2047#1" />
+            <element signature="e#2065#2098#1" />
+            <element signature="e#2174#2652#1" />
+            <element signature="e#2236#2347#1" />
+            <element signature="e#2300#2337#1" />
+            <element signature="e#2370#2484#1" />
+            <element signature="e#2498#2646#1" />
+            <element signature="n#!!block;n#getPalavras#0" />
+            <element signature="n#!!block;n#converterMaiusculo#0" />
+            <element signature="e#3113#3153#1" />
+            <element signature="n#!!block;n#pegar#0" />
+            <element signature="e#4068#4787#1" />
+            <element signature="e#4121#4204#1" />
+            <element signature="e#4326#4644#1" />
+            <element signature="e#4407#4509#1" />
+            <element signature="e#4528#4634#1" />
+            <element signature="e#4659#4715#1" />
+            <element signature="e#4743#4781#1" />
+            <element signature="n#!!block;n#abrir#0" />
+            <element signature="e#5200#5806#1" />
+            <element signature="e#5290#5495#1" />
+            <element signature="e#5354#5391#1" />
+            <element signature="e#5448#5485#1" />
+            <element signature="e#5519#5688#1" />
+            <element signature="e#5725#5800#1" />
+            <element signature="e#5817#5876#1" />
+            <element signature="n#!!block;n#atacar#0" />
+            <element signature="e#5921#7216#1" />
+            <element signature="e#6044#6159#1" />
+            <element signature="e#6111#6149#1" />
+            <element signature="e#6184#6298#1" />
+            <element signature="e#6313#6415#1" />
+            <element signature="e#6449#6557#1" />
+            <element signature="e#6510#6547#1" />
+            <element signature="e#6580#6720#1" />
+            <element signature="e#6735#6794#1" />
+            <element signature="e#6828#6942#1" />
+            <element signature="e#6895#6932#1" />
+            <element signature="e#6991#7143#1" />
+            <element signature="e#7158#7209#1" />
+            <element signature="e#7222#7280#1" />
+            <element signature="n#!!block;n#fimDeJogo#0" />
+            <element signature="e#7327#7394#1" />
+            <element signature="e#7405#7466#1" />
+            <element signature="n#!!block;n#board#1" />
+            <element signature="e#7504#9056#0" />
+            <element signature="e#7533#7842#1" />
+            <element signature="e#7852#8303#1" />
+            <element signature="e#8325#8742#1" />
+            <element signature="e#8740#9033#1" />
+            <element signature="n#!!block;n#getPosicao#0;n#!!block;n#board#1" />
+            <element signature="n#!!block;n#addObjeto#0;n#!!block;n#Posicao#0" />
+            <element signature="n#!!block;n#main#0" />
+            <element signature="e#10072#10242#1" />
           </folding>
         </state>
       </provider>
